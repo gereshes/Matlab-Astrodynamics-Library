@@ -1,5 +1,5 @@
 function [jacobiConst] = jacobiValue3D(X,mu)
-%This function calucaltes the jacobi value of a state in the Circualr
+%This function calculates the jacobi value of a state in the Circular
 %Restricted 3-Body Problem (CR3BP)
 %
 %Inputs

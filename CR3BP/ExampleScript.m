@@ -2,7 +2,7 @@ close all
 clear all
 clc
 %% 
-%This script is designed to provide an exmpale how to use different
+%This script is designed to provide an example of how to use different
 %functions in the Matlab Astrodynamics Library CR3BP
 %
 %   Ari Rubinsztejn

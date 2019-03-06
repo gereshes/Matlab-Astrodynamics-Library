@@ -1,5 +1,5 @@
 function plotOther(mu,jacobiValue,filled)
-%Function for plotting other gerneal system points of interest.
+%Function for plotting other general system points of interest.
 %
 %This function takes in system and trajectoy parameters, computes other
 %objects of interest: 

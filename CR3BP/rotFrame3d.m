@@ -1,5 +1,5 @@
 function [XNew] = rotFrame3d(t,X,mu)
-%CR3BP Dynamics function 3D, to be used with matalb ODE suite
+%CR3BP rotating frame dynamics function, to be used with Matlab ODE suite
 % 
 %Inputs:
 %   t - double - current time

@@ -1,7 +1,7 @@
 function [xPos,yPos,rHill,rHillPrim] = lagrangePoints(mu,itts)
-%This function calucaltes the positions of the lagrange points in rotating frame
-%for the Circualr Restricted 3-Body Problem (CR3BP) using the hill radius
-%appproximation
+%This function calucaltes the positions of the lagrange points in the rotating frame
+%for the Circular Restricted 3-Body Problem (CR3BP) using the hill radius
+%approximation
 %
 %Inputs
 %   mu  - double     - Your systems nondimenisonal mass ratio

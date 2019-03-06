@@ -1,5 +1,5 @@
 function [diffJ] = jacobiValDiff(X,mu)
-%This function calucaltes the jacobi value differnece in the Circualr
+%This function calculates the Jacobi value difference in the Circular
 %Restricted 3-Body Problem (CR3BP)
 %
 %Inputs
